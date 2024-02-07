@@ -1,5 +1,13 @@
 # Gsheet
 ### Functions for worksheet analysis
+
+<div align="center">
+  <img src="https://www.gstatic.com/images/branding/product/1x/sheets_48dp.png" alt="Google Sheets Logo" width="100"/><br>
+  <h1>Google Sheets</h1>
+  <p>Google Sheets is a web-based spreadsheet application offered by Google.</p>
+  <a href="https://www.google.com/sheets/about/" target="_blank"><strong>Learn more</strong></a>
+</div>
+
 | Function/Formula                            | Description                                                                      |
 |---------------------------------------------|----------------------------------------------------------------------------------|
 | SUM(range)                                  | Adds up all the numbers in a specified range.                                    |
